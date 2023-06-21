@@ -110,7 +110,7 @@ margin:10px;padding-top:5px; line-height: 25px; font-size: 17px;}
 	footer{height:700px;text-align:center;}	
 	.footer_row{width:100%;display:block;}
 	
-	.main_intro_right{width: 420px; margin-right:20px; margin-left:0px; margin-top:30px; font-size: 15px;}	
+	.main_intro_right{width: 420px; margin-right:20px; margin-left:20px; margin-top:30px; font-size: 15px;}	
 	.main_intro{width: 600px;}
 	.main_intro_img{width:80%}
 
