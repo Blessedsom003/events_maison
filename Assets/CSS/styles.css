@@ -82,7 +82,7 @@ margin:10px;padding-top:5px; line-height: 25px; font-size: 17px;}
 	.clinks{width:40%;margin:20px;}
 	footer{height:500px; font-size: px;}	
 	.footer_row{width:100%;display:block;}
-	.main_intro_right{width: 350px; margin-right:20px; margin-left:0px; text-align:justify; margin-top:30px; font-size: 15px;}	
+	.main_intro_right{width: 350px; margin-right:20px; margin-left:10px; text-align:justify; margin-top:30px; font-size: 15px;}	
 	.main_intro{margin: 0; padding: 0;display: inline-block; float: none; align-content: center;}
 	.main_intro_img{padding:0;}
 	.v_section{width: 800px;}
